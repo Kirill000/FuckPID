@@ -13,8 +13,8 @@ This repository contains Python console applications for tuning PID controllers 
 Clone the repository:
 
 ```bash
-git clone https://github.com/Kirill000/FuckPID.git
-cd FuckPID
+git clone https://github.com/Kirill000/PID4U.git
+cd PID4U
 ```
 
 Install required packages (if needed):
